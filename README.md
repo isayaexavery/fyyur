@@ -1,6 +1,6 @@
 # fyyur
 
-This project has created as the part of Udacity nano degree program.
+This project has been created as the part of Udacity nano degree program.
 
 A booking site Fy-yur that facilitates bookings between artists who can play at venues, and venues who want to book artists
 
